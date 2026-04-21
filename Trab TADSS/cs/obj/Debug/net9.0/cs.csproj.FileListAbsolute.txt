@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Desktop\Trab TADSS\cs\bin\Debug\net9.0\cs.exe
+C:\Users\USUARIO\Desktop\Trab TADSS\cs\bin\Debug\net9.0\cs.deps.json
+C:\Users\USUARIO\Desktop\Trab TADSS\cs\bin\Debug\net9.0\cs.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Trab TADSS\cs\bin\Debug\net9.0\cs.dll
+C:\Users\USUARIO\Desktop\Trab TADSS\cs\bin\Debug\net9.0\cs.pdb
+C:\Users\USUARIO\Desktop\Trab TADSS\cs\obj\Debug\net9.0\cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Trab TADSS\cs\obj\Debug\net9.0\cs.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Trab TADSS\cs\obj\Debug\net9.0\cs.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Trab TADSS\cs\obj\Debug\net9.0\cs.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Trab TADSS\cs\obj\Debug\net9.0\cs.dll
+C:\Users\USUARIO\Desktop\Trab TADSS\cs\obj\Debug\net9.0\refint\cs.dll
+C:\Users\USUARIO\Desktop\Trab TADSS\cs\obj\Debug\net9.0\cs.pdb
+C:\Users\USUARIO\Desktop\Trab TADSS\cs\obj\Debug\net9.0\cs.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\Trab TADSS\cs\obj\Debug\net9.0\ref\cs.dll
